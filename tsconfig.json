@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "outDir": "scripts/",
+    "strictNullChecks": false,
+    "removeComments": false,
+    "strictFunctionTypes": false,
+    "useDefineForClassFields": false,
+    "strictPropertyInitialization": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

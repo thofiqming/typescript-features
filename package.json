@@ -1,0 +1,16 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no arrayExample specified\\\" && exit 1",
+    "exec_index": "tsc index.ts --target ES5 && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
